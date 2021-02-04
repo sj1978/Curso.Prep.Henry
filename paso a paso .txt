@@ -2,3 +2,10 @@ git status,
 git add .
 git commit -m 'homework
 git push origin master 
+
+
+npm test JSIV.test.js
+
+
+
+
